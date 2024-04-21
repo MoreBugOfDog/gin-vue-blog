@@ -19,9 +19,9 @@ export const useAppStore = defineStore('app', {
       user_count: 0,
     },
     blog_config: {
-      website_name: '阵、雨的个人博客',
-      website_author: '阵、雨',
-      website_intro: '往事随风而去',
+      website_name: '多bug的啸天犬-个人博客',
+      website_author: '多bug的啸天犬',
+      website_intro: '往事随风而去，bug随风而来',
       website_avatar: '',
     },
   }),

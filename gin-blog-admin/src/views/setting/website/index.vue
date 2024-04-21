@@ -12,8 +12,8 @@ defineOptions({ name: '网站管理' })
 const formRef = ref(null)
 const form = ref({
   website_avatar: '',
-  website_name: '阵、雨的个人博客',
-  website_author: '阵、雨',
+  website_name: '多bug的啸天犬-个人博客',
+  website_author: '多bug的啸天犬',
   website_intro: '往事随风而去',
   website_notice: '博客后端基于 gin、gorm 开发\n博客前端基于 Vue3、TS、NaiveUI 开发\n努力开发中...冲冲冲！加油！',
   website_createtime: '2023-12-27 22:40:22',
