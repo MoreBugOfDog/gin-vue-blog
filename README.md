@@ -1,15 +1,8 @@
-## 博客交流群
 
-2023-12-09：最近项目处于重构中，会经历快速迭代，线上版本不一定是最新，暂时不要上生产环境
-
-2023-12-27: v2 版本重构 初步完成, 从之间的 Java 风格项目改为 Golang 风格, 还有些功能在修补!
-
-项目交流 QQ 群号：777260310
 
 ## 博客介绍
 
 <p align=center>
-<a href="http://www.hahacode.cn">
 <img src="./images/头像.jpeg"  width="200" hight="200" alt="多bug的啸天犬-个人博客" style="border-radius: 50%">
 </a>
 </p>
